@@ -1,6 +1,4 @@
-understanding github lecture 100x
-
-# [Project Title]
+# Test-100x
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/travis/com/[YourGitHubUsername]/[YourRepoName].svg?branch=main)](https://travis-ci.com/[YourGitHubUsername]/[YourRepoName])
